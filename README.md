@@ -22,7 +22,7 @@ Search any city and get instant updates about temperature, humidity, wind speed,
 ---
 
 ## 📸 Screenshots
-(Add some screenshots of your app here)
+[Weather App Screenshot](./assets/screenshot.png)
 
 ---
 
