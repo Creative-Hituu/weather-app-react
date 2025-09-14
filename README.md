@@ -43,4 +43,12 @@ Search any city and get instant updates about temperature, humidity, wind speed,
 ⚠️ Note:<br>
 Make sure Node.js and npm are installed on your system before running the project.<br><br>
 
+## 📬 Contact  
+
+👤 **Hitanshu Prajapati**  
+📧 Email: hitanshubro1@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/hitanshu-prajapati-hi)  
+💻 [GitHub Profile](https://github.com/Creative-Hituu)  
+
+
 
