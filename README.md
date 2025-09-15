@@ -1,7 +1,7 @@
 # 🌦️ Weather App (React)
 
-A simple and elegant weather application built with **React.js** that fetches real-time weather data using a public weather API.  
-Search any city and get instant updates about temperature, humidity, wind speed, and weather conditions.
+--> A simple and elegant weather application built with **React.js** that fetches real-time weather data using a public weather API.<br>
+--> Search any city and get instant updates about temperature, humidity, wind speed, and weather conditions.
 
 ---
 
@@ -43,7 +43,7 @@ Search any city and get instant updates about temperature, humidity, wind speed,
 ⚠️ Note:<br>
 Make sure Node.js and npm are installed on your system before running the project.<br><br>
 
-## 📬 Contact  
+## 📬 Contact Me
 
 👤 **Hitanshu Prajapati**  
 📧 Email: hitanshubro1@gmail.com  
